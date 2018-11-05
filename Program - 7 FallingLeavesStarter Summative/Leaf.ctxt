@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Leaf
+comment1.params=
+comment1.target=Leaf()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ contructer\ that\ makes\ the\ leaf\ moveDown(),\ Rotate()\ the\ leaf\ and\ check\ if\ the\ leaft\ is\ atEdge().\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ moveDown()
+comment3.text=\r\n\ moveDown\ is\ the\ contructer\ that\ makes\ the\ leaf\ fall\ down\ in\ random\ speed\ and\ random\ location\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ atEdge()
+comment4.text=\r\n\ atEdge\ is\ the\ contructor\ that\ remove\ the\ leaf\ from\ the\ world\ if\ it\ is\ touching\ the\ edge\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ Rotate()
+comment5.text=\r\n\ Rotate\ is\ the\ contructor\ that\ make\ the\ leaf\ spin\ around\ in\ the\ air\ and\ set\ a\ speed\ of\ rotation\r\n\ \r\n\ @param\ There\ is\ no\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6
